@@ -31,6 +31,7 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+*.js linguist-language=Dart
 
 # Symbolication related
 app.*.symbols
